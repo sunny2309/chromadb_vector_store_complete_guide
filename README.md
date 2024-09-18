@@ -1,2 +1,1 @@
-# chromadb_vector_store_complete_guide
-Chromad Vctor Store Complete Guide
+# Complete Guide to Chromad Vector Store 
